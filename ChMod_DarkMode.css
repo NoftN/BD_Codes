@@ -157,7 +157,7 @@
   display: none !important;
 }
 .theme-dark .wordmark-2u86JB::before {
-  content: "‏‏‎ c h i l l a x";
+  content: "‏‏‎. a s h x r a";
   font-size: 12px;
   font-family: "Poiret one" !important;
   position: fixed;
@@ -172,7 +172,7 @@
   transition: 0.5s ease-in-out;
 }
 .wordmark-2u86JB:hover:before {
-  content: "‏‏‎ c h i l l a x";
+  content: "‏‏‎ a s h x r a";
   letter-spacing: 2px;
 }
 /* button design*/
@@ -227,7 +227,7 @@
   visibility: hidden !important;
 }
 .theme-dark .placeholder-1rCBhr::before {
-  content: "Life is so much easier when you just take a time to chill";
+  content: "Escape reality.";
   color: rgba(255, 255, 255, 0.2);
   font-family: "Poppins";
   font-size: 13px;
@@ -552,7 +552,7 @@ backdrop-filter: blur(5px);
 }
 /*welcome text*/
 .theme-dark body:before {
-  content: "Greetings " var(--user-name) "!";
+  content: "What's up, No-Hiz?";
   z-index: 1000000000000000000000000;
   color: #fff;
   background-color: #0000007a;
@@ -716,7 +716,7 @@ span:not(.spinner-item) {
   --cl-appearance: "Dark";
 }
 #app-mount .info-3pQQBb .line-18uChy:last-child:after {
-  content: "Chillax " var(--cl-appearance) " 🎮";
+  content: ".ashxra " var(--cl-appearance) " 🎮";
   display: block;
 }
 /*custom bd window edit*/
